@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basic-oop-example-reactjs/static/css/main.be719738.css",
+    "main.js": "/basic-oop-example-reactjs/static/js/main.529b66fe.js",
+    "static/js/787.3bbe8c73.chunk.js": "/basic-oop-example-reactjs/static/js/787.3bbe8c73.chunk.js",
+    "index.html": "/basic-oop-example-reactjs/index.html",
+    "main.be719738.css.map": "/basic-oop-example-reactjs/static/css/main.be719738.css.map",
+    "main.529b66fe.js.map": "/basic-oop-example-reactjs/static/js/main.529b66fe.js.map",
+    "787.3bbe8c73.chunk.js.map": "/basic-oop-example-reactjs/static/js/787.3bbe8c73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be719738.css",
+    "static/js/main.529b66fe.js"
+  ]
+}
